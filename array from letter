@@ -1,0 +1,3 @@
+string myString = "Hello";
+Console.WriteLine(myString[0]);
+// arrays
